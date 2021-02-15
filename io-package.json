@@ -1,7 +1,7 @@
 {
     "common": {
         "name": "spotify-premium",
-        "version": "1.1.01",
+        "version": "1.1.02",
         "news": {
         	"1.1.0": {
 			  "en": "",
